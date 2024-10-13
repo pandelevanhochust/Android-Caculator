@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="white_smoke">#F5F5F5</color>
+    <color name="light_grey">#D3D3D3</color>
+    <color name="chinese_white">#E2E5DE</color>
+    <color name="ash_gray">#B2BEB5</color>
+    <color name="milk_white">#FEFCFF</color>
+</resources>
